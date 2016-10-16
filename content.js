@@ -25,6 +25,7 @@ for (var i = 0; i < elements.length; i++) {
 	}
 }
 
+//Facebook default alt tag = representations of the picture
 // if (containsTrump) {
 // 	alert('Reaches here');
 // 	var images = document.getElementsByTagName('img');
